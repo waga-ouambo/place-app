@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "wiko",
     "name": "places",
     "slug": "places",
     "version": "1.0.0",
@@ -27,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
